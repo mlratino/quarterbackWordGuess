@@ -12,9 +12,9 @@
 ## Bootstrap
 ## Node
 
-### ## Option Two: Word Guess Game (Challenge - Recommended)
+# Option Two: Word Guess Game (Challenge - Recommended)
 
-<!-- 1. [Watch the demo](https://youtu.be/W-IJcC4tYFI).
+1. [Watch the demo](https://youtu.be/W-IJcC4tYFI).
 
 2. Choose a theme for your game! In the demo, we picked an 80s theme: 80s questions, 80s sound and an 80s aesthetic. You can choose any subject for your theme, though, so be creative!
 
@@ -34,11 +34,11 @@
 
 8. Letters Already Guessed: (Letters the user has guessed, displayed like `L Z Y H`).
 
-9. After the user wins/loses the game should automatically choose another word and make the user play it. -->
+9. After the user wins/loses the game should automatically choose another word and make the user play it.
 
 # Word Guess Game Bonuses
 
-<!-- 1. Play a sound or song when the user guesses their word correctly, like in our demo.
+1. Play a sound or song when the user guesses their word correctly, like in our demo.
 2. Write some stylish CSS rules to make a design that fits your game's theme.
 3. **HARD MODE:** Organize your game code as an object, except for the key events to get the letter guessed. This will be a challenge if you haven't coded with JavaScript before, but we encourage anyone already familiar with the language to try this out.
 4. Save your whole game and its properties in an object.
@@ -47,11 +47,11 @@
    * Remember: global variables, then objects, then calls.
 7. Definitely talk with a TA or your instructor if you get tripped up during this challenge.
 
-- - - -->
+- - -
 
 # A Few Tips
 
-<!-- 1. **IMPORTANT:** Whichever assignment you choose, code your game one piece at a time! Code all of your apps one piece at a time. _Always code one piece at a time!_
+1. **IMPORTANT:** Whichever assignment you choose, code your game one piece at a time! Code all of your apps one piece at a time. _Always code one piece at a time!_
 2. Pseudocode your program and break the app down into tiny, manageable fragments. This will make the coding process much less frustrating and a veritable Mach number faster. Otherwise, you'll be chipping away at a giant chunk of abstraction for way too many hours.
 
    * The ability to solve a large problem by treating it as a set of smaller ones is the hallmark of a strong programmer. Best start adapting this into your development routine now, to better prepare for your more complex future projects.
@@ -77,7 +77,7 @@
 
 
 
-* Please submit both the deployed Github.io link to your homework AND the link to the Github Repository! -->
+* Please submit both the deployed Github.io link to your homework AND the link to the Github Repository!
 
 
 
