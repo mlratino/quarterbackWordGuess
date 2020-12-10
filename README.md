@@ -37,7 +37,7 @@
 
 ### 9. After the user wins/loses the game will automatically choose another word and restart play.
 
-# Word Guess Game Bonuses
+<!-- # Word Guess Game Bonuses -->
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/8OJ01psE6wc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
