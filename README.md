@@ -3,6 +3,8 @@
 # Quarterback Word Guess
 # Technologies Used
 ![alt text](quarterbackWordGuess.jpg)
+
+<!-- <img src=assets\images\quarterbackWordGuess.jpg> -->
 ## HTML
 ## CSS
 ## Javascript
