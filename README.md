@@ -1,8 +1,8 @@
-![](https://github.com/mlratino/quarterbackWordGuess/blob/master/quarterbackWordGuess.JPG "Logo Title Text 1")
+<!-- ![](https://github.com/mlratino/quarterbackWordGuess/blob/master/quarterbackWordGuess.JPG "Logo Title Text 1") -->
 
 # Quarterback Word Guess
 # Technologies Used
-
+![alt text](quarterbackWordGuess.jpg)
 ## HTML
 ## CSS
 ## Javascript
@@ -12,7 +12,7 @@
 ## Bootstrap
 ## Node
 
-# Option Two: Word Guess Game (Challenge - Recommended)
+# Option Two: Quarterback Word Guess Game (Challenge - Recommended)
 
 ### 1. [Watch the demo](https://youtu.be/W-IJcC4tYFI).
 
@@ -24,16 +24,16 @@
 
 ### 2. Press any key to get started! This is a hangman-style.  Choose your letters wisely!!! As you choose the letter will post and track the play clock!
 
-### 3.  You win if you complete the word before your guesses run out. Perfect score is 10/10
+### 3.  You win if you complete the word before your guesses run out. Perfect score 
 <!-- : (# of times user guessed the word correctly). -->
 
-  ###  * If the word is `madonna`, display it like this when the game starts: `_ _ _ _ _ _ _`.
+  ###  * If the word is `football`, display it like this when the game starts: `_ _ _ _ _ _ _ _`.
 
-  ###  * Correct letters, reveal them: `m a d o _  _ a`.
+  ###  * Correct letters, reveal them: `f_ _ t _ _ l l`.
 
 ### 7. Number of Guesses Remaining: (# of downs or guesses remaining for the user).
 
-### 8. Your incorrect guesses are displayed as so: `L Z Y H`).
+### 8. Your incorrect guesses are displayed as so: `W Z Y H`).
 
 ### 9. After the user wins/loses the game will automatically choose another word and restart play.
 
