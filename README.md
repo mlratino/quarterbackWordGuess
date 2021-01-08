@@ -1,18 +1,20 @@
 <!-- ![](https://github.com/mlratino/quarterbackWordGuess/blob/master/quarterbackWordGuess.JPG "Logo Title Text 1") -->
 
 # Quarterback Word Guess
-# Technologies Used
-![alt text](quarterbackWordGuess.jpg)
 
-<!-- <img src=assets\images\quarterbackWordGuess.jpg> -->
-## HTML
-## CSS
-## Javascript
-## Markdown
-## Visual Studio 
-## Github
-## Bootstrap
-## Node
+<!-- ![alt text](quarterbackWordGuess.jpg) -->
+
+<img src=assets\images\quarterbackWordGuess.jpg> 
+
+# Technologies Used
+### HTML
+### CSS
+###  Javascript
+### Markdown
+### Visual Studio 
+### Github
+### Bootstrap
+### Node
 
 # Option Two: Quarterback Word Guess Game (Challenge - Recommended)
 
