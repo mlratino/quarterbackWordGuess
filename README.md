@@ -16,6 +16,8 @@
 ### Bootstrap
 ### Node
 
+#### work to be done: capitalize first letter of last name and complete the name before showing the alert, reward winner or punish loser with GIF
+
 # Option Two: Quarterback Word Guess Game (Challenge - Recommended)
 
 ### 1. [Watch the demo](https://youtu.be/W-IJcC4tYFI).
