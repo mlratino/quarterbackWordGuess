@@ -2,9 +2,9 @@
 
 # Quarterback Word Guess
 
-<!-- ![alt text](quarterbackWordGuess.jpg) -->
+![alt text](quarterbackWordGuess.jpg)
 
-<img src=assets\images\quarterbackWordGuess.jpg> 
+<!-- <img src=assets\images\quarterbackWordGuess.jpg>  -->
 
 # Technologies Used
 ### HTML
